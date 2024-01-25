@@ -1,1 +1,1 @@
-https://github.com/DexterNoob/phoenix-clang/releases/download/Phoenix-Clang-18.0.0git-release/Phoenix-Clang-18.0.0git.tar.gz
+https://github.com/DexterNoob/phoenix-clang/releases/download/Phoenix-Clang-19.0.0git-release/Phoenix-Clang-19.0.0git.tar.gz
